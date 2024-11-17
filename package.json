@@ -12,6 +12,9 @@
     "format": "prettier --ignore-path .gitignore --write \"./src/**/*.+(js|ts|json)\"",
     "format:fix": "prettier --write src"
   },
+  "prettier": {
+    "useTabs": true
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
